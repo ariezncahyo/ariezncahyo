@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-@aris--nurcahyono-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-nurcahyono/)](https://www.linkedin.com/in/aris-nurcahyono/)
 
 ![metrics](./github-metrics.svg)
 
