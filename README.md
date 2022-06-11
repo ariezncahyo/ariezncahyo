@@ -1,4 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-@aris--nurcahyono-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-nurcahyono/)](https://www.linkedin.com/in/aris-nurcahyono/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-@aris--nurcahyono-blue?logo=Linkedin&logoColor=white&style=flat&link=https://linkedin.com/in/aris-nurcahyono)](https://www.linkedin.com/in/aris-nurcahyono/)
+[![Github Badge](https://img.shields.io/badge/Github-@ariezncahyo---?&logo=Github&color=blue&link=https://github.com/ariezncahyo&style=flat)](https://github.com/ariezncahyo)
+[![Gitlab Badge](https://img.shields.io/badge/Gitlab-@ariezncahyo-white?logo=Gitlab&color=blue&link=https://gitlab.com/ariezncahyo&style=flat)](https://gitlab.com/ariezncahyo)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-ariezncahyo@gmail.com-white?logo=Gmail&color=blue&link=mailto:ariezncahyo@gmail.com&style=flat)](mailto:ariezncahyo@gmail.com)
+[![Web Badge](https://img.shields.io/badge/www-https://ariezncahyo.my.id-white?logo=globe&color=blue&link=https://ariezncahyo.my.id)](https://ariezncahyo.my.id)
 
 ![metrics](./github-metrics.svg)
 
